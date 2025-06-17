@@ -2,8 +2,8 @@
 
 First, choose your paper size:
 
-- A4
-- US letter
+- [A4](https://github.com/BeingTransinPhilosophy/being-trans-in-philosophy-issues/raw/refs/heads/main/issue-0-june-2025/being-trans-in-philosophy-A4.pdf)
+- [US letter](https://github.com/BeingTransinPhilosophy/being-trans-in-philosophy-issues/raw/refs/heads/main/issue-0-june-2025/being-trans-in-philosophy-US-letter.pdf)
 
 We have pre-arranged the pages. In the printing dialogue, choose the following options:
 
