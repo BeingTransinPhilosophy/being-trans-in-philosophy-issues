@@ -11,5 +11,8 @@ We have pre-arranged the pages. In the printing dialogue, choose the following o
 - Print on both sides of paper: Flip on the short page
 - Orientation: Landscape
 
-You may need to use a long- or swing-arm stapler.
+To bind:
+
+- Place 2 binder clips on middle on edges, fold, and staple on fold.
+- It’d be best to use a long- or swing-arm stapler. If you don’t have one, [staple on an eraser](https://youtube.com/shorts/KssgsgHcQnU?si=2OnzcZboyVm0Dl9X). 
 
