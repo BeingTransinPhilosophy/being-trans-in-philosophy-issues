@@ -8,7 +8,7 @@ First, choose your paper size:
 We have pre-arranged the pages. In the printing dialogue, choose the following options:
 
 - Scaling: Actual size
-- Print on both sides of paper: Flip on the short page
+- Print on both sides of paper: Flip on short edge
 - Orientation: Landscape
 
 To bind:
